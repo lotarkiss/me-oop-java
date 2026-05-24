@@ -29,7 +29,7 @@ SECTION=section1 CLASS=hello make run
 
 Have fun, feel free to send PR with more examples!
 
-## Section 1
+## Section 1 - basic syntax, static stuff
 
 hello     - a simple hello world program
 sum100    - a simple for loop for sum
@@ -37,3 +37,15 @@ prod9     - a simple for loop for product
 factorial - a simple recursive factorial
 rectangle - read `stdin`, calculate rect area
 triangle  - read `stdin`, decide a triangle is valid
+
+## Section 2 - arrays, lists, dynamic objects
+
+## Section 3 - classes, and instances, get/set methods
+
+## Section 4 - inheritance, and method override
+
+## Section 5 - polymorphism
+
+## Section 6 - sorting
+
+## Section 7 - exception handling
