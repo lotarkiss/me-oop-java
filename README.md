@@ -41,12 +41,15 @@ Have fun, feel free to send PR with more examples!
 
 ## Section 2 - arrays, lists, dynamic objects
 
-- ??        - how to use Array<> for ??
-- ??        - how to use List<> for ??
-- numconv   - how to use Stack<> for number conversion
-- ??        - how to use Queue<> for ??
+- tempstat  - how to use Array<> for temperature statistics
+- frequent  - how to use String as a `Array<char>` object
+- wc        - how to use ArrayList<> for `stdin` word count
+- lru       - how to use LinkedList<> for usage list
+- numconv   - how to use Stack<> for number base conversion
+- spooler   - how to use ArrayDeque<> for a simple ToDo-list
+- hosts     - how to use HashMap<> for hostname lookup
 
-## Section 3 - classes, and instances, get/set methods
+## Section 3 - classes, and instances, references, get/set methods
 
 - ??        - Alkalmazott?
 
