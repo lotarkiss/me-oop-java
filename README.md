@@ -42,7 +42,6 @@ Have fun, feel free to send PR with more examples!
 ## Section 2 - arrays, lists, dynamic objects
 
 - tempstat  - how to use Array<> for temperature statistics
-- frequent  - how to use String as a `Array<char>` object
 - wc        - how to use ArrayList<> for `stdin` word count
 - lru       - how to use LinkedList<> for usage list
 - numconv   - how to use Stack<> for number base conversion
