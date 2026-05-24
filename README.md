@@ -40,11 +40,22 @@ Have fun, feel free to send PR with more examples!
 
 ## Section 2 - arrays, lists, dynamic objects
 
+-           - how to use Array<> for ??
+-           - how to use List<> for ??
+- numconv   - how to use Stack<> for number conversion
+-           - how to use Queue<> for ??
+
 ## Section 3 - classes, and instances, get/set methods
+
+-           - Alkalmazott?
 
 ## Section 4 - inheritance, and method override
 
+-           - Alkalmazott?
+
 ## Section 5 - polymorphism
+
+-           - Kifli, Kenyér, Zsömle?
 
 ## Section 6 - sorting
 
