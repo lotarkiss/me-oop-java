@@ -32,10 +32,15 @@ Have fun, feel free to send PR with more examples!
 ## Section 1 - basic syntax, static stuff
 
 hello     - a simple hello world program
+
 sum100    - a simple for loop for sum
+
 prod9     - a simple for loop for product
+
 factorial - a simple recursive factorial
+
 rectangle - read `stdin`, calculate rect area
+
 triangle  - read `stdin`, decide a triangle is valid
 
 ## Section 2 - arrays, lists, dynamic objects
