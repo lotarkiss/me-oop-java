@@ -37,6 +37,7 @@ Have fun, feel free to send PR with more examples!
 - factorial - a simple recursive factorial
 - rectangle - read `stdin`, calculate rect area
 - triangle  - read `stdin`, decide a triangle is valid
+- quadratic - read `stdin`, solve a quadratic equation
 
 ## Section 2 - arrays, lists, dynamic objects
 
